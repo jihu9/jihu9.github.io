@@ -1,4 +1,4 @@
-#一点点说明
+<h2>一点点说明</h2>
 
 这是[physic](http://www.physic.win)的示例代码，如果你看了[使用Github Pages建独立博客](http://www.physic.win/github-pages)，希望看下去哦：
 
